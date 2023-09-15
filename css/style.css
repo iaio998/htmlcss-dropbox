@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --main-bgcolor: #b4d0e7;
+  --color-black: black;
+  ---buttons-color: #b4d0e7;
+  --dropbox-business: #61082b;
+}
+.debug-b {
+  border: 1px solid black;
+}
+.debug-bg {
+}
