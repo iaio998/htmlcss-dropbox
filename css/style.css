@@ -236,7 +236,7 @@ p {
 
 /* Sezione collab */
 .collaborator:hover {
-  box-shadow: inset 1px 1px 50px rgba(0, 0, 0, 0.747);
+  box-shadow: inset 1px 1px 50px rgb(255, 255, 255);
   cursor: pointer;
 }
 #collab .img-fluid {
