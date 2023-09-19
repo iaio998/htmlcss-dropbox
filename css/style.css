@@ -235,7 +235,8 @@ p {
 }
 
 /* Sezione collab */
-
+.collaborator:hover {
+}
 #collab .img-fluid {
   filter: invert(100%) sepia(95%) saturate(88%) hue-rotate(102deg)
     brightness(110%) contrast(101%);
